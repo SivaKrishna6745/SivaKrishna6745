@@ -1,6 +1,6 @@
 - 👋 Hi, I am Mangalampalli Siva Krishna (MSK).
-- 👀 I’m interested in Web Design especially CSS3 & Python.
-- 🌱 I’m currently learning CSS, JS
+- 👀 I’m interested in Web Design.
+- 🌱 I’m currently learning Redux, Webpack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
