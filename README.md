@@ -1,6 +1,10 @@
-# <pre>                     Hi 👋 , I'm Siva Krishna                    </pre>
-## <pre>                              Frontend Developer || ReactJS                  </pre>
+- 👋 Hi, I am Mangalampalli Siva Krishna (MSK).
+- 👀 I’m interested in Web Design.
+- 🌱 I’m currently learning Redux, Webpack.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
-- 💻 I am a Frontend Developer in ReactJS who is eager to learn things.
-- 🏫 I am currently learning Redux & Webpack.
-- You can reach out to me at 📧 krishnasiva6745@gmail.com.
+<!---
+SivaKrishna6745/SivaKrishna6745 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
